@@ -88,7 +88,7 @@ class MyApp extends StatelessWidget {
   );
 
   return MaterialApp(
-    title: 'Flutter layout: Muhammad Rakha Widya Ardhana_362458302092',
+    title: 'Muhammad Rakha Widya Ardhana_362458302092',
     home: Scaffold(
       appBar: AppBar(
         title: const Text('Flutter layout demo'),
