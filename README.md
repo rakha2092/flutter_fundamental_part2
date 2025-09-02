@@ -12,5 +12,5 @@ selanjutnya kita membuat column button yang berisi 3 kolom untuk tombol, lalu bu
 selanjutnya tambahkan teks untuk deskripsi dari wisata yang akan dibuat dengan menambahkan variabel text section kebody
 ![alt text](img/prak5.png)
 implementasikan gambar yang telah disiapkan sebelumnya, siapkan folder img dan tambahkan gambar kesana lalu import ke file main.dart
-![img_hasil](img/image.PNG)
+![alt text](img/image.PNG)
 ini adalah hasil akhir untuk praktikum ini
